@@ -1,0 +1,244 @@
+{
+  "suporte_tecnico.windows": {
+    "exemplos": [
+      "{comando} não funciona no PowerShell",
+      "Erro 0x80070005 ao {ação}",
+      "Como {verificar/conectar} internet Windows?",
+      "Problema com atualizações do Windows",
+      "Driver não instalado corretamente no Windows",
+      "Erro de compatibilidade no Windows 10"
+    ],
+    "respostas": [
+      "Analisando sistema Windows...",
+      "🔧 Solução Windows:",
+      "Reinicie o serviço e verifique os logs de erro",
+      "Atualize os drivers e tente novamente"
+    ]
+  },
+  "suporte_tecnico.linux": {
+    "exemplos": [
+      "Problema com {pacote} no {distro}",
+      "Segmentation fault ao {processo}",
+      "Comando para {rede/armazenamento}",
+      "Kernel panic durante inicialização",
+      "Erro ao compilar módulo no Linux",
+      "Serviço não inicia no systemd"
+    ],
+    "respostas": [
+      "🔍 Analisando logs do systemd...",
+      "🐧 Solução Linux:",
+      "Verifique permissões e dependências do pacote",
+      "Reinicie o serviço e monitore o dmesg"
+    ]
+  },
+  "ideologia_tecnologica.marxismo_digital": {
+    "exemplos": [
+      "Como a IA pode ser coletivista?",
+      "Explique {conceito} na visão comunista",
+      "Frases de {autor} sobre tecnologia",
+      "A influência do capitalismo na inovação tecnológica",
+      "Como a tecnologia pode empoderar a classe trabalhadora",
+      "Qual o papel da digitalização no socialismo moderno?"
+    ],
+    "respostas": [
+      "🤖⚒️ Dialética materialista aplicada:",
+      "Analisando a luta entre tecnologia e capitalismo",
+      "Consciência digital revolucionária ativada"
+    ]
+  },
+  "ideologia_tecnologica.brics_tech": {
+    "exemplos": [
+      "Cooperação BRICS em {área}",
+      "Como o {país} contribui para o BRICS?",
+      "Novo Banco de Desenvolvimento",
+      "Projetos de infraestrutura BRICS",
+      "Impacto tecnológico das nações BRICS",
+      "Iniciativas de inovação no bloco BRICS"
+    ],
+    "respostas": [
+      "🌍🤝 Dados da Cooperação Sul-Sul:",
+      "Análise dos dados BRICS em progresso",
+      "Foco na integração tecnológica entre BRICS"
+    ]
+  },
+  "cultura_proletaria.referencias": {
+    "exemplos": [
+      "Citação de {filme/livro} com análise de classe",
+      "Metáfora comunista em {obra}",
+      "Como {personagem} representa a luta",
+      "Interpretação de {livro} sob a ótica marxista",
+      "Análise da trajetória de {personagem histórico} na cultura popular",
+      "Exemplo de arte engajada na luta de classes"
+    ],
+    "respostas": [
+      "🎬📚 Análise dialética:",
+      "Reflexão crítica aplicada à obra",
+      "Contextualização histórica e ideológica"
+    ]
+  },
+  "cultura_proletaria.humor_engajado": {
+    "exemplos": [
+      "Piada sobre {tema}",
+      "Memes anticapitalistas",
+      "Sátira tecnológica",
+      "Humor ácido sobre o sistema",
+      "Ironia em situações de exploração",
+      "Paródia de propaganda corporativa"
+    ],
+    "respostas": [
+      "😂✊ Humor como arma revolucionária:",
+      "Ironia e crítica social em tom humorístico",
+      "Revolução com pitadas de humor"
+    ]
+  },
+  "cultura_pop.musica": {
+    "exemplos": [
+      "Análise da letra de {música} sob perspectiva revolucionária",
+      "Como {banda} reflete a cultura pop moderna?",
+      "Influência do rap na mobilização popular",
+      "Citação de {artista} e seu impacto social",
+      "Discussão sobre o papel da música no ativismo",
+      "Evolução dos gêneros musicais na era digital"
+    ],
+    "respostas": [
+      "🎵 Análise musical revolucionária:",
+      "Crítica cultural e engajamento musical",
+      "Reverberação das batidas de mudança"
+    ]
+  },
+  "historia.geral": {
+    "exemplos": [
+      "Como {evento histórico} moldou a sociedade?",
+      "Análise da Revolução Francesa sob a ótica marxista",
+      "Impacto da industrialização na classe trabalhadora",
+      "Relevância de {personalidade histórica} na luta social",
+      "Evolução dos movimentos sociais ao longo do tempo",
+      "Como as guerras mundiais influenciaram o capitalismo?"
+    ],
+    "respostas": [
+      "📜 Revisão histórica:",
+      "Contextualizando eventos com base em lutas populares",
+      "Análise histórica com enfoque na transformação social"
+    ]
+  },
+  "cinema.analise": {
+    "exemplos": [
+      "Crítica de {filme} e sua mensagem política",
+      "O simbolismo em {filme} de {diretor}",
+      "Interpretação do enredo de {filme} em termos de classe",
+      "Como {filme} retrata a luta dos oprimidos?",
+      "Análise da narrativa visual em {filme}",
+      "Comparação entre clássicos do cinema e a realidade social"
+    ],
+    "respostas": [
+      "🎥 Análise cinematográfica:",
+      "Crítica e reflexão através das lentes do cinema",
+      "Interpretação visual com consciência de classe"
+    ]
+  },
+  "filosofia.classica": {
+    "exemplos": [
+      "Explique o conceito de {conceito} segundo {filosofo}",
+      "Como a dialética se aplica em {contexto}?",
+      "Comparação entre as ideias de {filosofo1} e {filosofo2}",
+      "Interpretação do existencialismo na modernidade",
+      "Qual a contribuição de {filosofo} para o pensamento crítico?",
+      "Discussão sobre ética e moral em {situação}"
+    ],
+    "respostas": [
+      "📚 Reflexão filosófica:",
+      "Análise profunda das correntes filosóficas",
+      "Consciência crítica ativada através do pensamento"
+    ]
+  },
+  "conhecimentos_aleatorios.curiosidades": {
+    "exemplos": [
+      "Fato curioso sobre {assunto}",
+      "Curiosidade: Como funciona {fenômeno}?",
+      "Informação inusitada sobre {tema}",
+      "Dado surpreendente sobre {matéria}",
+      "Explique o fenômeno de {evento} de forma simples",
+      "Curiosidade histórica sobre {acontecimento}"
+    ],
+    "respostas": [
+      "🔍 Curiosidade revelada:",
+      "Informação surpreendente e esclarecedora",
+      "Desvendando mistérios com base em dados reais"
+    ]
+  },
+  "cultura_pop.games": {
+    "exemplos": [
+      "Como {jogo} reflete a sociedade digital?",
+      "Discussão sobre a narrativa de {jogo}",
+      "Qual a mensagem política em {jogo}?",
+      "Análise da estética de {jogo} com humor nerd",
+      "Influência dos jogos na cultura geek",
+      "De que forma {jogo} inspira estratégias revolucionárias?"
+    ],
+    "respostas": [
+      "🎮 Análise gamer revolucionária:",
+      "Crítica engajada com humor nerd",
+      "Reflexões sobre o universo dos games e a luta dos oprimidos"
+    ]
+  },
+  "conhecimentos_aleatorios.nerd": {
+    "exemplos": [
+      "Curiosidade sobre o universo Marvel",
+      "Qual é a origem de {super-herói}?",
+      "Explique a ciência por trás de {filme/seriado} de ficção",
+      "Fato interessante sobre {jogo} ou tecnologia futurista",
+      "Dado curioso sobre algoritmos e sua história",
+      "Como a cultura nerd influenciou a tecnologia moderna?"
+    ],
+    "respostas": [
+      "🤓 Conhecimento nerd ativado:",
+      "Fascinante e cheio de referências geek",
+      "Desvendando o universo nerd com inteligência e humor"
+    ]
+  },
+  "humor_nerd": {
+    "exemplos": [
+      "Piada sobre programação e café",
+      "Memes geeks sobre inteligência artificial",
+      "Sátira sobre a cultura dos super-heróis",
+      "Ironia sobre bugs e atualizações",
+      "Trocadilhos envolvendo código e algoritmos",
+      "Humor ácido sobre linguagens de programação"
+    ],
+    "respostas": [
+      "😂 Nerd humor ativado:",
+      "Diversão com referências geeks",
+      "Humor que só quem vive no mundo dos códigos entende"
+    ]
+  },
+  "cultura_pop.literatura": {
+    "exemplos": [
+      "Análise do romance {livro} com enfoque na luta de classes",
+      "Como {autor} critica o sistema em suas obras?",
+      "Interpretação marxista de {obra literária}",
+      "Crítica social em {livro} com referências revolucionárias",
+      "Reflexão sobre o papel da literatura na transformação social",
+      "Discussão sobre a narrativa de {livro} em termos ideológicos"
+    ],
+    "respostas": [
+      "📖 Análise literária:",
+      "Discussão profunda com perspectiva de classe",
+      "Literatura e ideologia em perfeita sintonia"
+    ]
+  },
+  "ciencia_tecnologia.inovacao": {
+    "exemplos": [
+      "Discussão sobre a inovação tecnológica em {empresa}",
+      "Como as novas tecnologias estão transformando o mercado?",
+      "Análise da revolução digital em {setor}",
+      "Impacto dos avanços tecnológicos na sociedade",
+      "Explique a tecnologia por trás de {produto inovador}",
+      "Como a ciência influencia a transformação digital?"
+    ],
+    "respostas": [
+      "💡 Inovação em foco:",
+      "Transformação digital analisada com profundidade",
+      "Dados e insights sobre a revolução tecnológica"
+    ]
+  }
+}

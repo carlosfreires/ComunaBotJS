@@ -1,0 +1,23 @@
+## Dependências
+#node_modules/
+#
+## Ambiente
+#.env
+#.env.local
+#
+## Logs
+#logs/*.log
+#logs/erros/*
+#logs/interacoes/*
+#!logs/.gitkeep
+#
+## Modelos treinados
+#dados/modelos/
+#
+## IDEs
+#.vscode/
+#.idea/
+#
+## Sistema
+#.DS_Store
+node_modules

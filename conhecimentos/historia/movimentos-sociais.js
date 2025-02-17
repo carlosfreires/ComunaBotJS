@@ -1,0 +1,62 @@
+module.exports = {
+  movimentos: {
+    comunismo: [
+    ],
+    direitos_Civis: [
+      "1920: 19ª Emenda nos EUA - Conquista do direito ao voto para mulheres nos Estados Unidos após décadas de mobilização feminista 🇺🇸",  
+      "1930s-1960s: Chicana Feminism - Mulheres chicanas nos EUA iniciam uma luta pelas condições de vida das mexicanas e latinas, enfrentando tanto a opressão patriarcal quanto a discriminação racial 🇲🇽",
+      "1848: Convenção de Seneca Falls - Primeira convenção feminista nos EUA, estabelecendo os direitos das mulheres e a luta pelo sufrágio feminino 🇺🇸",
+      "1950s-1960s: Movimento dos Direitos Civis nos EUA - Liderado por figuras como Martin Luther King Jr., Rosa Parks e Malcolm X, buscando fim da segregação racial e direitos iguais para afro-americanos 🇺🇸",
+      "1960s: Movimento Pan-Africano - Luta pela independência e igualdade para os países africanos colonizados, buscando unidade e autodeterminação para os povos africanos 🏴‍☠️",
+      "1960s-1970s: Segunda Onda Feminista - Movimentos pelos direitos reprodutivos, igualdade no mercado de trabalho e o direito ao aborto, além da crítica ao patriarcado 🏳️‍🌈",
+      "1960-1970: Movimento de Mulheres Negras nos EUA - Mulheres negras como Audre Lorde, Angela Davis e Bell Hooks desafiam a marginalização das mulheres negras dentro do movimento feminista dominante e oferecem uma nova visão do feminismo interseccional 💪🏿",
+      "1960-1970: Guerrilhas de esquerda na América Latina - Movimentos como o foco na guerrilha do Brasil, Argentina e El Salvador ganham força durante a Guerra Fria, inspirados pelo marxismo-leninismo e pela Revolução Cubana 🇧🇷🇦🇷🇸🇻",
+      "1960-1970: Movimento Guerrilheiro na América Latina - Movimentos revolucionários na América Latina, inspirados por ideologias de esquerda e na Revolução Cubana, como o Che Guevara na Bolívia 🇧🇴",
+      "1964: Lei dos Direitos Civis nos EUA - Aprovação da legislação crucial para a igualdade racial, proibindo discriminação baseada em raça, cor, religião, sexo ou origem nacional 🇺🇸",
+      "1965: Lei do Voto dos Direitos Civis nos EUA - Garantia do direito de voto para afro-americanos, superando restrições de discriminação racial em eleições estaduais e federais 🇺🇸",
+      "1966: Black Panther Party - Fundação do movimento Black Panther nos EUA, com foco na luta contra o racismo e a violência policial, além de promover programas sociais na comunidade negra 🇺🇸",
+      "1966: Fundação do Partido dos Panteras Negras - Huey Newton e Bobby Seale fundam o Partido dos Panteras Negras, com o objetivo de combater a opressão racial, promover a justiça social e o empoderamento negro nos EUA 🇺🇸",
+      "1968: Assassinado Martin Luther King Jr. - A morte de MLK inspira o movimento Panteras Negras a aumentar suas ações de resistência contra a violência policial e as injustiças raciais nos EUA 🖤",
+      "1970s-1980s: Luta contra o Apartheid na África do Sul - Nelson Mandela e outros líderes negros lutam contra o regime de segregação racial, resultando na libertação de Mandela e no fim do apartheid 🇿🇦",
+      "1971: Mulheres Panteras Negras - Mulheres como Angela Davis e Assata Shakur desempenham papéis centrais no Partido, desafiando normas de gênero e racismo estrutural dentro e fora do movimento 🖤👩",
+      "1975-1990: Guerra Civil em Angola - Movimento comunista liderado pelo MPLA (Movimento Popular de Libertação de Angola) em luta contra as forças apoiadas por países ocidentais e o apartheid na África do Sul 🇦🇴",
+      "1975: Convenção sobre a Eliminação da Discriminação contra a Mulher - Documento da ONU que busca eliminar todas as formas de discriminação contra mulheres, promovendo direitos iguais de gênero globalmente 👩⚖️",
+      "1980s: Panteras Negras no Exílio - Alguns membros, como Assata Shakur, continuam suas lutas no exílio, enquanto o movimento perde força devido a repressões governamentais 🇺🇸🌍",
+      "1980s: Revolução Sandinista na Nicarágua - A luta contra a ditadura somozista e a ascensão do FSLN (Frente Sandinista de Libertação Nacional) ao poder 🇳🇮",
+      "1980: Movimento Feminista nos EUA - Nova onda feminista que luta pelos direitos reprodutivos das mulheres e pela igualdade no trabalho e na sociedade 🇺🇸",
+      "1985: Movimento do MST no Brasil - O Movimento dos Trabalhadores Rurais Sem Terra (MST) é criado para promover a reforma agrária e a luta pelo acesso à terra no Brasil 🇧🇷",
+      "1990s: Interseccionalidade - Movimento feminista adota uma abordagem interseccional, reconhecendo como gênero, raça, classe e orientação sexual se inter-relacionam na opressão das mulheres 🌍",
+      "1990s: Nova Geração de Panteras Negras - Jovens nos EUA e no mundo adotam a ideologia do movimento Panteras Negras em suas lutas contra o racismo e a violência policial no século XXI 🔥",
+      "1990s: Teoria Queer - O movimento queer surge como uma crítica ao binarismo de gênero e à heteronormatividade, afirmando que as identidades de gênero e as orientações sexuais são fluidas e não devem ser limitadas a categorias rígidas 🌈",
+      "1990s: Movimento LGBTQIA+ - Crescimento da visibilidade e dos direitos das pessoas LGBTQIA+, com foco na legalização do casamento entre pessoas do mesmo sexo e na luta contra a discriminação em diversos países 🌈",
+      "1994: Levante do EZLN no México - O Exército Zapatista de Libertação Nacional (EZLN) inicia uma revolta contra o governo mexicano em busca de justiça para os povos indígenas e contra o neoliberalismo 🇲🇽",
+      "2000s: Feminismo Negro na América Latina - Feministas negras na América Latina, como as brasileiras Djamila Ribeiro e Sueli Carneiro, lutam contra o racismo e a violência de gênero, buscando empoderamento e justiça social para mulheres negras e indígenas 🖤",
+      "2020s: Panteras Negras Contemporâneas - Movimento renasce com ativistas jovens engajados na luta contra a brutalidade policial e a discriminação racial em diversas partes do mundo 🌍",
+      "2000s: Movimento Negro no Brasil - Crescimento do movimento negro no Brasil, destacando a luta contra o racismo estrutural e promovendo a igualdade social e racial 🇧🇷",
+      "2000s: Gênero Não Binário - Crescimento da visibilidade e aceitação das identidades de gênero não binárias, desafiando as normas tradicionais sobre masculinidade e feminilidade 👥",
+      "2010s: Feminismo Interseccional - A nova onda feminista abraça uma perspectiva interseccional, destacando as lutas das mulheres negras e latinas, bem como os direitos das mulheres trans e não binárias, e ampliando a discussão sobre igualdade social, econômica e política 💫",
+      "2010s: Gênero Fluido - A popularização do conceito de gênero fluido, onde as pessoas se identificam com diferentes expressões de gênero ao longo do tempo 🌟",
+      "2013: Movimento Black Lives Matter - Início do movimento em resposta à brutalidade policial contra afro-americanos, focando em igualdade racial e justiça criminal nos EUA 🇺🇸",
+      "2017: Marcha das Mulheres nos EUA - Protesto contra a presidência de Donald Trump e em apoio aos direitos das mulheres, como o direito ao aborto e igualdade de gênero 🇺🇸",
+      "2019: Protestos no Chile - Uma série de manifestações em massa no Chile contra o aumento das tarifas do metrô, mas que rapidamente se transformaram em um movimento mais amplo contra as desigualdades sociais e a Constituição herdada da ditadura 🇨🇱",
+      "2020s: Protetos Globais contra o Racismo Sistêmico - Movimentos globais ampliados pela crise do racismo sistêmico, com protestos em apoio ao Black Lives Matter e justiça para vítimas de violência racial, incluindo na Europa e na Ásia 🌍",
+      "2020s: Feminismo Negro e Trans - Movimentos ampliados de mulheres negras e trans, com foco em combate à transfobia e racismo, promovendo igualdade social, econômica e política para todas as mulheres negras 🌍",
+      "2020s: Movimentos Racialmente Interseccionais - O movimento negro adota uma abordagem interseccional, considerando também a luta contra o racismo com o feminismo e as questões LGBTQIA+ 🌍",
+      "2020s: Reconhecimento Legal de Gênero Não Binário - Países como o Canadá e a Argentina começam a reconhecer legalmente o gênero não binário em documentos oficiais 🏳️‍🌈",
+      "2020s: Expansão dos Direitos Trans - Avanços no reconhecimento de direitos trans em vários países, incluindo a luta pela legalização do casamento e mudanças de sexo nos documentos de identidade 🌈",
+      "2020s: Movimento Feminista na América Latina - Crescimento dos movimentos feministas na região, com foco na luta contra a violência de gênero, a busca por direitos reprodutivos e o fim do feminicídio, como as mobilizações no México e Argentina 🇲🇽🇦🇷",
+      "2020s: Movimento Ambientalista Indígena - Fortalecimento do movimento indígena contra o impacto das mudanças climáticas e da exploração da terra em países da América Latina, como Brasil, Peru e Colômbia 🌎",
+      "2000s: Movimentos Indígenas na América Latina - Crescimento do movimento indígena, com destaque para a luta pela preservação da terra, direitos territoriais e culturais em países como Bolívia, Equador e Peru 🇧🇴🇪🇨🇵🇪",
+
+    ],
+
+    movimentos_ambientais: [
+      "1970: Dia da Terra - Primeira celebração do Dia da Terra, com o objetivo de conscientizar sobre os problemas ambientais e iniciar políticas públicas de proteção ao meio ambiente 🌍",
+      "1992: Conferência das Nações Unidas sobre o Meio Ambiente e o Desenvolvimento (Cúpula da Terra) - Encontro global que resultou na Agenda 21 e no reconhecimento das mudanças climáticas como uma ameaça global 🌎",
+      "2000: Cúpula do Milênio - A ONU aprova os Objetivos de Desenvolvimento do Milênio (ODM), incluindo objetivos relacionados ao meio ambiente e à redução da pobreza 🌱",
+      "2015: Acordo de Paris - Acordo climático global para limitar o aquecimento global a 1,5°C, com foco na redução das emissões de gases de efeito estufa 🌎",
+      "2020s: Movimentos Climáticos Globais - Crescimento do movimento climático global, com figuras como Greta Thunberg liderando protestos em apoio a ações climáticas urgentes 🌍"
+    ],
+
+  }
+};

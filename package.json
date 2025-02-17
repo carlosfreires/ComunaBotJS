@@ -1,0 +1,31 @@
+{
+  "name": "comunabotjs",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "servidor.js",
+  "scripts": {
+    "iniciar": "node codigo-fonte/servidor.js",
+    "treinar": "node codigo-fonte/servidor.js --treinar-nlp",
+    "testar": "node codigo-fonte/testador.js",
+    "dev": "nodemon codigo-fonte/servidor.js",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.0.0",
+    "node-nlp": "^5.0.0-alpha.5",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.20.1",
+    "nodemon": "^3.1.9"
+  }
+}
