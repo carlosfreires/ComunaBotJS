@@ -2,7 +2,7 @@ const { NlpManager } = require('node-nlp');
 const TreinadorNLP = require('./treinador-Nlp');
 const ClassificadorTensorFlow = require('./classificador-TensorFlow');
 const IntegracaoDeepSeek = require('../integracoes/deepseek');
-const logger = require('../configuracao/logger');
+const logger = require('../configuracao/loggerService');
 const Disjuntor = require('../integracoes/Disjuntor');
 const path = require('path');
 

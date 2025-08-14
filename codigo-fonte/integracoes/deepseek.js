@@ -1,6 +1,6 @@
 const axios = require('axios');
-const logger = require('../configuracao/logger');
-const ambiente = require('../configuracao/ambiente');
+const logger = require('../configuracao/loggerService');
+const ambiente = require('../configuracao/configService');
 const Disjuntor = require('./Disjuntor');
 
 class IntegracaoDeepSeek {

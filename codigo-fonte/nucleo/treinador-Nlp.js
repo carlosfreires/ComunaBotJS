@@ -1,5 +1,5 @@
 const { NlpManager } = require('node-nlp');
-const logger = require('../configuracao/logger');
+const logger = require('../configuracao/loggerService');
 const intencoes = require('../../dados/intencoes/pt-BR.json');
 const path = require('path');
 

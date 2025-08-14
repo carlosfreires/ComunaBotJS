@@ -1,6 +1,6 @@
 const tf = require('@tensorflow/tfjs-node');  
-const logger = require('../configuracao/logger');
-const ambiente = require('../configuracao/ambiente'); 
+const logger = require('../configuracao/loggerService');
+const ambiente = require('../configuracao/configService'); 
 const path = require('path');
 const fs = require('fs/promises');
 
